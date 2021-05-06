@@ -218,10 +218,13 @@
 <symbol id="vector-checkbox" viewBox="0 0 42 32">
 <path fill="#fff" style="fill: var(--color1, #fff); stroke: var(--color1, #fff)" stroke="#fff" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.64" d="M6.263 15.205l-0.22-0.21-3.307 3.132 11.651 11.114 24.477-23.351-3.285-3.134-21.192 20.197-8.124-7.75z"></path>
 </symbol>
-<symbol id="icon-check" >
-<svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M2.95703 7.75166L2.88825 7.68604L2.81923 7.75141L1.93123 8.59258L1.85486 8.66492L1.93097 8.73753L5.42671 12.0724L5.49574 12.1382L5.56476 12.0724L13.069 4.91352L13.1449 4.84116L13.069 4.76881L12.1873 3.92764L12.1183 3.86183L12.0493 3.92761L5.49577 10.1735L2.95703 7.75166Z" fill="white" stroke="white" stroke-width="0.2"/>
-</svg>
+
+<symbol id="icon-full-check" viewBox="0 0 32 32">
+<path fill="#fff" style="fill: var(--color1, #fff); stroke: var(--color1, #fff)" stroke="#fff" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.4267" d="M6.308 16.537l-0.147-0.14-2.205 2.088 7.767 7.41 16.318-15.567-2.19-2.089-14.128 13.465-5.416-5.167z"></path>
+</symbol>
+
+<symbol id="icon-Vector-2" viewBox="0 0 34 32">
+<path d="M30.341 3.556v24.889h-26.548v-24.889h26.548zM30.341 0h-26.548c-2.086 0-3.793 1.6-3.793 3.556v24.889c0 1.956 1.707 3.556 3.793 3.556h26.548c2.086 0 3.793-1.6 3.793-3.556v-24.889c0-1.956-1.707-3.556-3.793-3.556z"></path>
 </symbol>
 
 <symbol id="icon-email-black-18dp-1" viewBox="0 0 32 32">
