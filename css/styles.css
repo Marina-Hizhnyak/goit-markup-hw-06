@@ -880,3 +880,19 @@ line-height: 1.46;
     top: 13px;
     bottom: 13px;
     fill: var(--h1-text-color);}
+
+    .checkbox-agree:checked + .check {
+    border-color: transparent;
+    background-color: var(--accent-text-color);}
+    
+    .check {
+    display: inline-block;
+    width: 16px;
+    height: 15px;
+    margin-right: 8px;
+    border: 2px solid var(--h1-text-color);
+    border-radius: 2px;}
+
+    .checkbox-agree:checked ~ .icon-check {
+    opacity: 1;
+    transform: scale(1.2);}
