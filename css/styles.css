@@ -882,7 +882,8 @@ line-height: 1.46;
     fill: var(--h1-text-color);}
 
     .checkbox-agree:checked + .check {
-    border-color: transparent;
+    border-color: var(--accent-text-color);
+    background-image: url(../images/Vector-3.svg);
     background-color: var(--accent-text-color);}
     
     .check {
@@ -890,7 +891,7 @@ line-height: 1.46;
     width: 16px;
     height: 15px;
     margin-right: 8px;
-    border: 2px solid var(--h1-text-color);
+    border: 2px solid var(--title-text-color);
     border-radius: 2px;}
 
     .checkbox-agree:checked ~ .icon-check {

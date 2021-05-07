@@ -496,17 +496,20 @@
               id="user-comment"
             ></textarea>
           </div>
-          <label for="user-checkbox">
-            <input class="checkbox-agree" type="checkbox" id="user-checkbox" />
-            <span class="check"></span>
-            <svg class="icon-check">
-              <use href="./images/symbol-defs.svg#icon-full-check"></use>
-            </svg>
-            <p>
-              Соглашаюсь с рассылкой и принимаю
-              <a class="agreement" href="#">Условия договора</a>
-            </p>
-          </label>
+          <div class="form-field">
+            <label for="user-checkbox">
+              <input
+                class="checkbox-agree visually-hidden"
+                type="checkbox"
+                id="user-checkbox"
+              />
+              <span class="check"></span>
+              <p>
+                Соглашаюсь с рассылкой и принимаю
+                <a class="agreement" href="#">Условия договора</a>
+              </p>
+            </label>
+          </div>
           <button class="form-button" type="submit">Отправить</button>
         </form>
       </div>
