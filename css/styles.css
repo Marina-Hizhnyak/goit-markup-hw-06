@@ -777,7 +777,7 @@ ul {
   left: 0;
   right: 0;
   top: 0;
-  bottom: -491px;
+  bottom: -461px;
   margin: auto;
   border-radius: 4px;
   display: inline-block;
@@ -875,7 +875,7 @@ line-height: 1.46;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);}
 
     .submit-icon { 
-      position: absolute;
+    position: absolute;
     right: 28px;
     top: 13px;
     bottom: 13px;
@@ -897,3 +897,6 @@ line-height: 1.46;
     .checkbox-agree:checked ~ .icon-check {
     opacity: 1;
     transform: scale(1.2);}
+  .form-agree-text {
+    display: inline-block;
+  }
